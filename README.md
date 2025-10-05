@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently working on using persistent homology on molecules to extract more chemically accurate features for machine learning applications. In addition to this work I am also doing spectral graph analysis for computational biology uses.
+
+Other than that I'm just generally interested at using applied math to solve complex modeling problems. From deterministic to probabilistic problems are all very fun! 
+
+If you have any questions please reach out to me at brendan@vols.utk.edu
+
 <!--
 **brendanelestrange/brendanelestrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
