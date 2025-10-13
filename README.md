@@ -2,7 +2,7 @@
 
 I'm currently working on using persistent homology on molecules to extract more chemically accurate features for machine learning applications. In addition to this work I am also doing spectral graph analysis for computational biology uses.
 
-Other than that I'm just generally interested at using applied math to solve complex modeling problems. From deterministic to probabilistic problems are all very fun! 
+Other than that I'm just generally interested at using applied math to solve complex modeling problems. If you have any fun probabilistic or deterministic problems, that you think would be fun to solve with me, let me know! 
 
 If you have any questions please reach out to me at brendan@vols.utk.edu
 
