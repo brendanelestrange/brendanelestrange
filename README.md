@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo
 
 I'm currently working on using persistent homology on molecules to extract more chemically accurate features for machine learning applications. In addition to this work I am also doing spectral graph analysis for computational biology uses. I'm also somewhat interested into quant projects (only for fun).
 
