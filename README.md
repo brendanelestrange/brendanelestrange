@@ -1,8 +1,10 @@
-## Yo
+## me
 
 I'm currently working on using persistent homology on molecules to extract more chemically accurate features for machine learning applications. In addition to this work I am also doing spectral graph analysis for computational biology uses. I'm also somewhat interested into quant projects (only for fun).
 
 Other than that I'm just generally interested at using applied math to solve complex modeling problems. If you have any fun probabilistic or deterministic problems, that you think would be fun to solve with me, let me know! 
+
+"Building" tools to do patient science.                       : )
 
 If you have any questions please reach out to me at brenlestrange05@gmail.com
 
